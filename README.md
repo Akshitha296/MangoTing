@@ -1,1 +1,2 @@
-# MangoTing
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
